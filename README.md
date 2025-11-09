@@ -1,0 +1,1 @@
+# Atividade-3---Lista-1-Exerc-cios-de-Algoritmos-em-Python
